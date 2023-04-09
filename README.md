@@ -15,4 +15,4 @@
 <br>
 
 ### ✉ How to reach me
-[![chha5232@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chha5232@gmail.com)](mailto:chha5232@gmail.com) : chha5232@gmail.com
+[![chha5232@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chha5232@gmail.com)](mailto:chha5232@gmail.com) : chha5232@gmail.com[![https://velog.io/@bebrain](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@bebrain)](https://velog.io/@bebrain) : https://velog.io/@bebrain
